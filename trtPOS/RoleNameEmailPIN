@@ -1,0 +1,13 @@
+Role	Name	Email	PIN
+ADMIN	Administrateur	admin@pos.ma	— (email only)
+MANAGER	Karim El Amrani	manager@pos.ma	—
+MANAGER	Samira Khalid	manager2@pos.ma	—
+MANAGER	Mohamed Amrani	superviseur@pos.ma	8901
+CASHIER	Fatima Benali	caisse@pos.ma	1234
+CASHIER	Hassan Rafik	caisse2@pos.ma	2345
+CASHIER	Nadia Tazi	caisse3@pos.ma	3456
+CASHIER	Youssef Amine	caisse4@pos.ma	4567
+CASHIER	Latifa Ouahbi	caisse5@pos.ma	5678
+STOCK	Omar Idrissi	stock@pos.ma	6789
+STOCK	Rachid Bennani	stock2@pos.ma	7890
+STOCK	Ahmed Slaoui	livreur@pos.ma	9012
